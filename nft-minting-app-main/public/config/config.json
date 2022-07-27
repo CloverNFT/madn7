@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x28f4dd9dbdbb909ad69635e28be3b3e73d7e6f9e",
+  "SCAN_LINK": "https://etherscan.io/address/0x28f4dd9dbdbb909ad69635e28be3b3e73d7e6f9e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mad Mfers",
+  "SYMBOL": "MadMfers",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mad-mfers",
+  "SHOW_BACKGROUND": true
+}
